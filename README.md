@@ -4,6 +4,14 @@ This project is a part of an internship that focuses on predicting employee sala
 
 ---
 
+## 🖼️ Screenshot
+
+Here is a preview of the Streamlit app:
+
+![App Screenshot](Screenshot.png)
+
+---
+
 ## 📌 Overview
 
 The goal of this project is to predict employee salary based on features such as years at company and job rate. A linear regression model is trained and deployed using a simple web application.
